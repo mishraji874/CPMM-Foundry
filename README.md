@@ -1,4 +1,4 @@
-# SimpleCPMM
+# CPMM - Foundry
 
 A basic Automated Market Maker (AMM) smart contract implementation with a single pool of two paired ERC20 tokens. The AMM uses the Constant Product Market Maker (CPMM) formula `x * y = k`, which is the foundation of protocols like Uniswap.
 
@@ -28,8 +28,8 @@ SimpleCPMM is a minimal implementation of an AMM that demonstrates core DeFi con
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Signor1/simpleCPMM.git
-cd simpleCPMM
+git clone https://github.com/mishraji874/CPMM-Foundry.git
+cd CPMM-Foundry
 ```
 
 2. Install dependencies
@@ -181,4 +181,4 @@ MIT License
 
 ## Author
 
-[Signor1](https://github.com/Signor1)
+[Aditya Mishra](https://mishraji874eth.on.fleek.co/)
